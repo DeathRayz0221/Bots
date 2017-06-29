@@ -1,0 +1,14 @@
+{
+  "name": "wammus-bot",
+  "version": "0.0.0",
+  "description": "WammusBot",
+  "main": "app.js",
+  "author": "Edison Guillermo",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.1.0"
+  }
+}
